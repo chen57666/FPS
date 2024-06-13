@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AI;    //¨Ï¥ÎUnityEngine.AI 
 
 public class WeaponManagement : MonoBehaviour
 {
